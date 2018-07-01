@@ -93,7 +93,7 @@ include 'header.php';
 
                                         <div class="hover-content">
                                             <div class="add-to-cart-btn">
-                                                <a href="#" class="btn essence-btn">Keranjangkan</a>
+                                                <a href="#" class="btn button-df">Keranjangkan</a>
                                             </div>
                                         </div>
                                     </div>
@@ -124,7 +124,7 @@ include 'header.php';
 
                                         <div class="hover-content">
                                             <div class="add-to-cart-btn">
-                                                <a href="#" class="btn essence-btn">Keranjangkan</a>
+                                                <a href="#" class="btn button-df">Keranjangkan</a>
                                             </div>
                                         </div>
                                     </div>
@@ -152,7 +152,7 @@ include 'header.php';
 
                                         <div class="hover-content">
                                             <div class="add-to-cart-btn">
-                                                <a href="#" class="btn essence-btn">Keranjangkan</a>
+                                                <a href="#" class="btn button-df">Keranjangkan</a>
                                             </div>
                                         </div>
                                     </div>
@@ -183,7 +183,7 @@ include 'header.php';
 
                                         <div class="hover-content">
                                             <div class="add-to-cart-btn">
-                                                <a href="#" class="btn essence-btn">Keranjangkan</a>
+                                                <a href="#" class="btn button-df">Keranjangkan</a>
                                             </div>
                                         </div>
                                     </div>
@@ -210,7 +210,7 @@ include 'header.php';
 
                                         <div class="hover-content">
                                             <div class="add-to-cart-btn">
-                                                <a href="#" class="btn essence-btn">Keranjangkan</a>
+                                                <a href="#" class="btn button-df">Keranjangkan</a>
                                             </div>
                                         </div>
                                     </div>
@@ -241,7 +241,7 @@ include 'header.php';
 
                                         <div class="hover-content">
                                             <div class="add-to-cart-btn">
-                                                <a href="#" class="btn essence-btn">Keranjangkan</a>
+                                                <a href="#" class="btn button-df">Keranjangkan</a>
                                             </div>
                                         </div>
                                     </div>
@@ -268,7 +268,7 @@ include 'header.php';
 
                                         <div class="hover-content">
                                             <div class="add-to-cart-btn">
-                                                <a href="#" class="btn essence-btn">Keranjangkan</a>
+                                                <a href="#" class="btn button">Keranjangkan</a>
                                             </div>
                                         </div>
                                     </div>
@@ -295,7 +295,7 @@ include 'header.php';
 
                                         <div class="hover-content">
                                             <div class="add-to-cart-btn">
-                                                <a href="#" class="btn essence-btn">Keranjangkan</a>
+                                                <a href="#" class="btn button-df">Keranjangkan</a>
                                             </div>
                                         </div>
                                     </div>
