@@ -12,7 +12,6 @@
                     <div class="single_widget_area mb-30">
                         <ul class="footer_widget_menu">
                             <li><a href="delcheck.php">Cek Status Pengiriman</a></li>
-                            <li><a href="#">Metode Pembayaran</a></li>
                             <li><a href="ulasan.php">Ulasan</a></li>
                             <li><a href="pp.php">Kebijakan Privasi</a></li>
                         </ul>
