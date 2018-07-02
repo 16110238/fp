@@ -65,6 +65,7 @@ img{height:auto;max-width:100%;}
 .bg-transparent{background-color:transparent !important;}
 .font-bold{font-weight:700;}
 .font-light{font-weight:300;}
+.breakpoint-on .classynav ul li .megamenu .single-mega.cn-col-4 {background:#fff}
 .bg-overlay,
 .bg-overlay-white{position:relative;z-index:2;background-position:center center;background-size:cover;}
 .bg-overlay:hover,
