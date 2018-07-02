@@ -18,21 +18,21 @@
                 <div class="col-12 col-sm-6 col-md-4">
                     <div class="single_catagory_area d-flex align-items-center justify-content-center bg-img" style="background-image: url(img/bg-img/kat1.jpg);">
                         <div class="catagory-content">
-                            <a href="#">Peripherals</a>
+                            <a href="shop.php?dd=Kategori : Peripherals">PC Peripherals</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-sm-6 col-md-4">
                     <div class="single_catagory_area d-flex align-items-center justify-content-center bg-img" style="background-image: url(img/bg-img/kat2.jpg);">
                         <div class="catagory-content">
-                            <a href="#">Gears</a>
+                            <a href="shop.php?dd=Kategori : Gears">Gaming Gears</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-sm-6 col-md-4">
                     <div class="single_catagory_area d-flex align-items-center justify-content-center bg-img" style="background-image: url(img/bg-img/kat3.jpg);">
                         <div class="catagory-content">
-                            <a href="#">Mecha Key</a>
+                            <a href="#">shop.php?dd=Kategori : Mechanical Keyboards</a>
                         </div>
                     </div>
                 </div>
