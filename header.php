@@ -9,7 +9,6 @@
     <title>Kuskus - Cust By Yours</title>
 
     <link rel="stylesheet" href="css/core-style.css">
-    <link rel="icon" href="img/core-img/kuskus.png">
 </head>
 
 <body>
