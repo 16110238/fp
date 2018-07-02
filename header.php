@@ -141,6 +141,32 @@
 
                 <div class="single-cart-item">
                     <a href="#" class="product-image">
+                        <img src="img/product-img/thermaltake-water-cooling-pacific-rl360-d5-kit.jpg" class="cart-thumb" alt="">
+                        <div class="cart-item-desc">
+                          <span class="product-remove"><i class="fa fa-close" aria-hidden="true"></i></span>
+                            <span class="badge">KOMPORGAS</span>
+                            <h6>Thermaltake Pacific RL360 D5</h6>
+                            <p class="color">Warna Fan : Merah</p>
+                            <p class="color">Warna Liquid : Pink</p>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="single-cart-item">
+                    <a href="#" class="product-image">
+                        <img src="img/product-img/thermaltake-water-cooling-pacific-rl360-d5-kit.jpg" class="cart-thumb" alt="">
+                        <div class="cart-item-desc">
+                          <span class="product-remove"><i class="fa fa-close" aria-hidden="true"></i></span>
+                            <span class="badge">KOMPORGAS</span>
+                            <h6>Thermaltake Pacific RL360 D5</h6>
+                            <p class="color">Warna Fan : Merah</p>
+                            <p class="color">Warna Liquid : Pink</p>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="single-cart-item">
+                    <a href="#" class="product-image">
                         <img src="img/product-img/30669.jpg" class="cart-thumb" alt="">
                         <div class="cart-item-desc">
                           <span class="product-remove"><i class="fa fa-close" aria-hidden="true"></i></span>
